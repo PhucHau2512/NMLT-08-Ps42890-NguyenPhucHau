@@ -1,6 +1,7 @@
-#includen <stdio.h>
-inmain() 
+#include <stdio.h>
+
+int main() 
 {
     printf("Hello world");
-    return ;
+    return 0;
 }
