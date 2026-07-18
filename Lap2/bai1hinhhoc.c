@@ -14,6 +14,6 @@ int main() {
     scanf("%f", &r);
     chuViHT = 2 * PII * r;
     dienTichHT = PI * r * r;
-    printf("Hinh chu nhat:\nBan kinh: %.2f\nChu vi: %.2f\nDien tich: %.2f\n", r, chuViHT, dienTichHT);
+    printf("Hinh tron:\nBan kinh: %.2f\nChu vi: %.2f\nDien tich: %.2f\n", r, chuViHT, dienTichHT);
     return 0;
 }
